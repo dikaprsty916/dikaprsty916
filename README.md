@@ -32,10 +32,6 @@ I am an enthusiastic person who enjoys exploring new technologies and building i
 
 ---
 
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sixeye6666) 
-
-
 <div align="center">
 
 <table align="center">
